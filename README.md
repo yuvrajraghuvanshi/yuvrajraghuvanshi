@@ -8,9 +8,9 @@
 ## About Me
 
 - 💻 I have 1 years of experience as a MERN stack developer.
-- 🔭 I currently working in Chikitsa.
+- 🔭 I am currently working in Chikitsa.
 - 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in web development.
-- 🎓 I am a fourth computer science student.
+- 🎓 I am a fourth year computer science student.
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/).
 
 ## My Skills
@@ -19,7 +19,7 @@
 - Backend Development: Node.js, Express.js, RESTful APIs, WebSocket.
 - Database: MongoDB, Mongoose, Firebase.
 - Version Control: Git, GitHub.
-- DevOps: Docker, S3, lambda, Amplify.
+- DevOps: kubernetes, S3, lambda, Amplify.
 
 ## Projects
 
@@ -28,6 +28,10 @@ Here are some of the projects I've worked on:
 1. **Netflix-Clone**
    - Description: It's clone of netflix.
    - GitHub Repository: [Link to Repo](https://github.com/yuvrajrag/netflix-clone.github.io)
+2. **Social Media**
+   - Description: Implemented a dynamic social media platform using React.js for an intuitive and responsive user interface.Developed robust backend functionalities with Node.js, facilitating seamless data 
+                  handling and real-time interactions.
+   - Github Repository: [Link to Repo](https://github.com/yuvrajraghuvanshi/social_media_frontend)(https://github.com/yuvrajraghuvanshi/social_media_backend)
 
 
 ## 📟 Github Stats:
