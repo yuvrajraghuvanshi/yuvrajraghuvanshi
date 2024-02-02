@@ -1,4 +1,4 @@
-# Hey there👋, I'm Yuvraj Raghuvanshi- MERN Stack Developer
+# Hey there👋, I'm Yuvraj Raghuvanshi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj-blue)](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-yuvrajrag-orange)](https://github.com/yuvrajrag)
