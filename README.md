@@ -7,18 +7,18 @@
 
 ## About Me
 
-- 💻 I have around 2 years of experience as a MERN stack developer.
+- 💻 I have around 2 years of experience as a Full stack developer.
 - 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in web development.
 - 🎓 I am a fourth year computer science student.
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/).
 
 ## My Skills
 
-- Frontend Development: HTML, CSS, JavaScript, NextJs, ReactJs , Bootstrap , Material-UI.
-- Backend Development: Node.js, Express.js, RESTful APIs, WebSocket.
-- Database: MongoDB, Mongoose, Firebase.
+- Frontend Development: HTML, CSS, JavaScript, NextJs, ReactJs, Bootstrap , Material-UI.
+- Backend Development: Node.js, Express.js, RESTful APIs, Socket.io.
+- Database: MongoDB, MySQL, Firebase.
 - Version Control: Git, GitHub.
-- DevOps: kubernetes, S3, lambda, Amplify.
+- DevOps: kubernetes, S3, lambda, Amplify, EC2.
 
 ## Get in Touch
 
