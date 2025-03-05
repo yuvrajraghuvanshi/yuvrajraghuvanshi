@@ -7,8 +7,7 @@
 
 ## About Me
 
-- 💻 I have 1 years of experience as a MERN stack developer.
-- 🔭 I am currently working in Chikitsa.
+- 💻 I have around 2 years of experience as a MERN stack developer.
 - 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in web development.
 - 🎓 I am a fourth year computer science student.
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/).
