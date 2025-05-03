@@ -8,17 +8,16 @@
 ## About Me
 
 - 💻 I have around 2 years of experience as a Full stack developer.
-- 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in web development.
-- 🎓 I am a fourth year computer science student.
+- 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in software development.
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/).
 
 ## My Skills
 
-- Frontend Development: HTML, CSS, JavaScript, NextJs, ReactJs, Bootstrap , Material-UI.
+- Frontend Development: HTML, CSS, JavaScript,React-native, Expo, NextJs, ReactJs, Bootstrap , Material-UI, Shopify.
 - Backend Development: Node.js, Express.js, RESTful APIs, Socket.io.
 - Database: MongoDB, MySQL, Firebase.
 - Version Control: Git, GitHub.
-- DevOps: kubernetes, S3, lambda, Amplify, EC2.
+- DevOps: kubernetes, S3, lambda, Amplify, EC2, EKS.
 
 ## Get in Touch
 
