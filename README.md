@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 💻 I have around 2 years of experience as a Full stack developer.
+- 💻 I have 2+ years of experience as a Full stack developer.
 - 🌟 I love working with cutting-edge technologies and staying up to date with the latest trends in software development.
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/).
 
@@ -17,7 +17,7 @@
 - Backend Development: Node.js, Express.js, RESTful APIs, Socket.io.
 - Database: MongoDB, MySQL, Firebase.
 - Version Control: Git, GitHub.
-- DevOps: kubernetes, S3, lambda, Amplify, EC2, EKS.
+- DevOps: kubernetes, S3, lambda, Amplify, EC2, EKS, Docker.
 
 ## Get in Touch
 
